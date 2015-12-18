@@ -1,0 +1,2 @@
+#!/bin/sh
+ps -eW | grep -i $1 | awk '{print $1;}' | xargs kill -f

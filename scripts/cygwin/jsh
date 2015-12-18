@@ -1,0 +1,5 @@
+#!/usr/bin/sh
+
+export jshhost="172.30.30."$1
+
+expect `dirname $0`/jsh.expect

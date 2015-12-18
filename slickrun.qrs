@@ -1,0 +1,648 @@
+[accessplanit]
+Filename="https://jhcinternal.accessplanit.com/accessplan/default2.aspx"
+GUID={156A58A7-00DD-4694-8531-8A6D30316373}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[ajtra]
+Filename="http://jenkinsdelphi:8080/job/FO%20Java%20Production%20-%20Another%20job%20to%20rule%20them%20all/"
+GUID={4AD3F29C-954B-44D6-9041-927A607CF4E3}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[ajtrta]
+Filename="http://jenkinsdelphi:8080/view/AJTRTA%20-%20Jobs%20to%20rule%20them%20all/job/FO%20Java%20Production%20-%20Another%20job%20to%20rule%20them%20all/"
+GUID={A84740B9-1BDB-4184-BAD8-2A0481CAD4A0}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[amazon,www.amazon.com]
+Filename="http://www.amazon.com/exec/obidos/redirect-home/baydensystems"
+Notes="Support Bayden Systems by shopping at Amazon"
+GUID={38DB0E2A-7727-46C9-8DA3-331E0AD2801F}
+StartMode=5
+UseRunAs=0
+Disable32BitRedir=0
+[atlantic]
+Filename="http://atlantic.jhc.co.uk/agsprod"
+GUID={EC71CF59-06A8-4FF5-83E0-6BED5676936B}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[b]
+Filename="https://bugzilla.jhc.co.uk/show_bug.cgi?id=$W$"
+GUID={AFEB49A4-B287-4B55-886F-C31D5ED7C879}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[babel]
+Filename="http://babelfish.altavista.com"
+Notes="Online translations via babelfish"
+GUID=
+StartMode=5
+UseRunAs=0
+Disable32BitRedir=0
+[baretail]
+Filename="C:\apps\baretail.exe"
+GUID={A70CAB3B-7698-4F33-9D02-76B113C47851}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[bmlogin]
+Filename="C:\Users\infanten\AppData\Local\Google\Chrome\Application\chrome.exe"
+Params="http://localhost:8080/bmlogin/app/logout"
+Notes="Search two billion web pages"
+GUID={C2B7D6DA-FB15-4888-AD6A-5212CA1D1EC7}
+StartMode=5
+UseRunAs=0
+Disable32BitRedir=0
+[book]
+Filename="http://www.amazon.com/gp/search?tag=baydensystems&index=books&field-keywords=$W$"
+Notes="Find a book at Amazon.com"
+GUID={04CCB76B-9963-4DF7-A375-3723F805F602}
+StartMode=5
+UseRunAs=0
+Disable32BitRedir=0
+[bugzilla]
+Filename="http://bugzilla.jhc.co.uk/show_bug.cgi?id=$W$"
+GUID={636FDCE5-DA3A-4DA1-A914-EA263E71F2C0}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[bugzilla_search]
+Filename="http://bugzilla.jhc.co.uk/buglist.cgi?quicksearch=$W$"
+GUID={DC419E11-0962-4B92-89A3-C245B0CD4710}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[chromeautosave]
+Filename="autosave"
+Params="--config C:\apps\chromeAutosaveConfigs\routes-$W$.js "
+GUID={45E2474C-5480-4492-9DC8-1A851BE8FFB3}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[cmd]
+Filename="C:\windows\system32\cmd.exe"
+Path="C:\users\infanten"
+GUID={D809EF9B-DC40-466E-AC2B-73445578FC4B}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[cmdadmin]
+Filename="C:\windows\system32\cmd.exe"
+Path="C:\users\infanten"
+GUID={4F71E52C-752F-4143-AC1F-9B70FC1D51F9}
+StartMode=1
+UseRunAs=-1
+Disable32BitRedir=0
+[configchromeautosave]
+Filename="notepad"
+Params="C:\apps\chromeAutosaveConfigs\routes-$W$.js "
+GUID={D4963D71-DF4F-4E63-9353-42D2772961EC}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[controlpanel]
+Filename="Control.exe"
+GUID={5B034865-98E5-48A6-92BE-EBEBBEF2B512}
+StartMode=1
+UseRunAs=-1
+Disable32BitRedir=-1
+[cygwin]
+Filename="C:\cygwin\bin\mintty.exe"
+Params=" -i /Cygwin-Terminal.ico -"
+GUID={D5B7F3F3-B9CA-4DBB-8558-D3E78B56A960}
+StartMode=3
+UseRunAs=0
+Disable32BitRedir=0
+[dbtimero]
+Filename=""C:\apps\timero\dbManager.bat""
+Path="C:\apps\timero"
+GUID={88C3CDD1-89EC-47D5-B172-AF3ECEC62373}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[define,?]
+Filename="http://www.m-w.com/cgi-bin/dictionary?$W$"
+Notes="Merriam-Webster online dictionary"
+GUID=
+StartMode=5
+UseRunAs=0
+Disable32BitRedir=0
+[diffmerge]
+Filename="C:\Program Files\SourceGear\Common\DiffMerge\sgdm.exe"
+GUID={3C0DC3A6-77E7-407A-AFCE-AC8820B182D7}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=-1
+[dos]
+Filename="%comspec%"
+Notes="Start a command prompt"
+GUID={04CCB76B-9963-4DF7-A375-3723FFDFF602}
+StartMode=5
+UseRunAs=0
+Disable32BitRedir=0
+[dvd]
+Filename="http://www.amazon.com/gp/search?tag=baydensystems&index=dvd&field-keywords=$W$"
+Notes="Search for DVD at Amazon"
+GUID={06FD0D0F-6FAC-4DE9-943C-F78505AA5C11}
+StartMode=5
+UseRunAs=0
+Disable32BitRedir=0
+[eclipse]
+Filename="C:\apps\eclipse-luna\eclipse.exe"
+GUID={ACB9B96D-07EC-4A2E-BD17-5F5D5147FF02}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[env]
+Filename="C:\Windows\System32\systempropertiesadvanced.exe"
+GUID={B76E7F31-344D-4FAA-8E1D-9D991D084BE7}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=-1
+[everythingvestra]
+Filename="C:\ProgramData\JHC\F63\Hold\Everyth6.exe"
+GUID={FC28E99C-7089-4E60-9C99-9C3DFC5B8664}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[extractreleasenotes]
+Filename="C:\Users\infanten\Downloads\Individual Release Notes Extract.xlsm"
+GUID={CDCEB553-6865-4748-AA70-E73E2A1EC63B}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[fixlog]
+Filename="C:\Program Files (x86)\Java\jre7\bin\javaw.exe"
+Params="-jar C:\apps\log4fix-2.0.0-tailing\log4fix-2.0.0\log4fix-2.0.0.jar"
+GUID={3EB5952D-6D1A-4992-930D-D5714ED947B7}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[fosprint]
+Filename="chrome"
+Params="https://docs.google.com/spreadsheets/d/1voRuRK-dRxc13gRgoWLdPDF5PW26rB2BNJ_y_BBVn5M/edit#gid=0"
+GUID={128EE675-7CE6-4FC7-B990-21B211102CFD}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[gimp]
+Filename="C:\Program Files (x86)\GIMP-2.0\bin\gimp-2.6.exe"
+GUID={6800096B-499B-4888-8F4B-5453482205D3}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[google]
+Filename="chrome"
+Params="http://www.google.com/search?hl=en&q=$W$"
+Notes="Search two billion web pages"
+GUID={C7D59C80-8323-4DA9-B80A-641150D67ACB}
+StartMode=5
+UseRunAs=0
+Disable32BitRedir=0
+[goto,_a]
+Filename="chrome"
+Params="http://www.google.com/search?hl=en&btnI=I%27m+Feeling+Lucky&q=$W$"
+Notes=""Go to" web search from Google"
+GUID=
+StartMode=5
+UseRunAs=0
+Disable32BitRedir=0
+[gpedit]
+Filename="gpedit.msc"
+GUID={28B3CA97-557D-401B-9547-64C2280C0235}
+StartMode=1
+UseRunAs=-1
+Disable32BitRedir=0
+[gqueues]
+Filename="www.gqueues.com/main"
+GUID={BEBE0F04-A72C-4087-9F0C-35DC068EDA57}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[grok]
+Filename="http://opengrok.jhc.co.uk/source/"
+GUID={CD09F315-5637-4205-A3E2-211CC715C0D1}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[helios]
+Filename="C:\Program Files (x86)\eclipse\eclipse.exe"
+GUID={52F382C7-1718-4F6B-BEEA-5F29CFD2C0BE}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[hibernate]
+Filename="@HIBERNATE@"
+Notes="Windows Hibernate Command"
+GUID={5CD45EA2-DD0B-4BB3-9C1E-0EDEFAF198AA}
+StartMode=5
+UseRunAs=0
+Disable32BitRedir=0
+[hosts]
+Filename="notepad"
+Params="C:\windows\system32\drivers\etc\hosts"
+GUID={2310D7E5-EAED-4D4B-864C-3050FE3CFB7C}
+StartMode=1
+UseRunAs=-1
+Disable32BitRedir=0
+[j]
+Filename="http://172.30.30.71:8080/jobs/app/connector/show_item?id=$W$"
+GUID={0ECDE3A8-1139-435D-9F64-0EBD47A8BA1B}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[jackrabbit]
+Filename="c:\jhc\jackrabbit"
+GUID={CB39DA96-3FB8-4BCF-9F53-5FAF90B5D0BC}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[javaconf]
+Filename="notepad.exe"
+Params="H:\javaConfDetails.txt"
+GUID={A4295D4C-E8C8-4971-8F2E-6DC5F95750CD}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[jcrclean]
+Filename="cscript"
+Params=" //nologo c:\apps\utils\jcrClean.vbs $W$"
+GUID={1D91E0FA-F44D-4698-8D94-3F8532D1349F}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[jdoc]
+Filename="http://docs.oracle.com/javase/6/docs/api/index.html?overview-summary.html"
+GUID={B2441076-CABA-4C26-8221-7E349DAEF750}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[jedit]
+Filename="C:\apps\jEdit 4.4.2\jedit.exe"
+GUID={501EF8CE-A852-4856-898C-8BDB067F8132}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[jenkins]
+Filename="http://jenkins.jhcllp.local"
+GUID={825FA747-202D-4147-B45A-E5593E3BC692}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[jira]
+Filename="http://jira.jhc.co.uk/browse/$W$"
+GUID={02BDD0F7-23FD-487A-95AD-65DECE84209A}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[jirasrch]
+Filename="http://jira.jhc.co.uk/issues/?jql=text%20~%20%22$W$%22"
+GUID={CE58D868-C692-428F-8945-E65F57D6C915}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[jj]
+Filename="http://172.30.30.71:8080/SVU/F63FIGARO/QRPGLESRC/$W$/H"
+GUID={357E0B79-4057-4C6C-9350-CEA49218C031}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[jump]
+Filename="http://localhost:8080/jump/app"
+GUID={3DF49CA1-7AAE-404F-B616-63C0BA156B80}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[jvisualvm]
+Filename="jvisualvm"
+GUID={A9D971F7-909E-494E-99FF-0B8F82AB953F}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[jwiki]
+Filename="http://jhcwiki.jhc.co.uk/wiki/?title=Special%3ASearch&search=$W$&go=Go"
+Notes="Search Wikipedia Online Encyclopedia"
+GUID={24223F1E-C440-4D56-8300-52BCED87C04F}
+StartMode=5
+UseRunAs=0
+Disable32BitRedir=0
+[ldap]
+Filename="C:\Program Files (x86)\Apache Directory Studio\Apache Directory Studio.exe"
+GUID={6558EF90-E27A-4619-9E0E-6F1CEA81D3B1}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[lock]
+Filename="@SCREENSAVE@"
+Notes="Show the WindowsXP Screensaver"
+GUID={BB932194-0D67-4CF7-BFCF-079ED449281E}
+StartMode=5
+UseRunAs=0
+Disable32BitRedir=0
+[mail]
+Filename="msimn.exe"
+Notes="Microsoft Outlook Express e-mail reader"
+GUID={5E5A2DF8-DFBB-44E4-B0F5-3CEF777C40CF}
+StartMode=5
+UseRunAs=0
+Disable32BitRedir=0
+[memanalyze]
+Filename="C:\apps\mat\MemoryAnalyzer.exe"
+GUID={0F9E2298-4C48-4727-93C0-1488BC3FF136}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[morning]
+Filename="@MULTI@"
+Params="iexplore www.gotapex.com/deals.php@iexplore news.google.com@msimn"
+Notes="Launch some morning webpages and apps"
+GUID={BAFF0D1B-C4BC-41C5-A140-88474910404A}
+StartMode=5
+UseRunAs=0
+Disable32BitRedir=0
+[movie]
+Filename="http://us.imdb.com/Find?$W$"
+Notes="Find a movie at IMDB"
+GUID={D62B6C61-4371-48DE-BE6E-250C55258764}
+StartMode=5
+UseRunAs=0
+Disable32BitRedir=0
+[mremote]
+Filename=""C:\Program Files (x86)\mRemote\mRemote.exe""
+GUID={A4E997AF-BE8D-4A7C-B6FE-6273F60FE40F}
+StartMode=1
+UseRunAs=-1
+Disable32BitRedir=0
+[msnbc]
+Filename="http://www.msnbc.com/"
+Notes="MSNBC news"
+GUID={655648D1-0547-47D7-ADF5-554DED33DE9B}
+StartMode=5
+UseRunAs=0
+Disable32BitRedir=0
+[myyahoo]
+Filename="http://my.yahoo.com"
+Notes="Personalized news and information from Yahoo!"
+GUID=
+StartMode=5
+UseRunAs=0
+Disable32BitRedir=0
+[nexus]
+Filename="http://nexus.jhc.co.uk/nexus/index.html#nexus-search;quick~$W$"
+GUID={930B7059-1D70-4C4F-B1E1-23A63F4B1C03}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[nougal]
+Filename="C:\apps\nougal\Nougal.exe"
+GUID={C228A74E-2549-46A7-A800-DDAA83193BCF}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[oldiebox]
+Filename="mstsc.exe"
+Params="/v 172.30.30.229"
+GUID={23910E4F-FB6C-4D52-904D-95F8412C390C}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[oldjcrclean]
+Filename="cscript"
+Params=" //nologo c:\apps\utils\jcrCleanOld.vbs $W$"
+GUID={BF2AD17C-1F91-4573-8623-021B089495AD}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[paint]
+Filename="pbrush.exe"
+Notes="Microsoft Paint image editor"
+GUID={60E47C21-5E5D-44DA-8813-0F943B125C14}
+StartMode=5
+UseRunAs=0
+Disable32BitRedir=0
+[phone]
+Filename="http://jhcwiki.jhc.co.uk/wiki/index.php/Phone_List#$W$_Office"
+GUID={3CAD5768-EDAF-4341-88F4-B583F80AEFF4}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[player]
+Filename="wmplayer.exe"
+Notes="Windows Media Player"
+GUID={BB30ACB1-D4D7-4D96-B032-C0DD02922640}
+StartMode=5
+UseRunAs=0
+Disable32BitRedir=0
+[putty]
+Filename="C:\apps\putty.exe"
+GUID={88567054-CA6A-4C7A-9C86-D84FF01F9146}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[rdp]
+Filename=""C:\Program Files (x86)\IBM\SDP\eclipse.exe""
+Path=""C:\Program Files (x86)\IBM\SDP""
+Params=" -product com.ibm.rational.rdpower.product.ide"
+GUID={598AC44A-1F19-4D05-B829-8FA85696D37C}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[regex]
+Filename="http://www.regexplanet.com/advanced/java/index.html"
+GUID={C0AFEAF0-5316-4A14-BD91-A7E1EF2B0279}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[resourceplan]
+Filename="\\jhcsan1\public\FO Mgmt Team\Resource Schedule\Java Development Team - Resource Plan.xlsx"
+GUID={1EA6C855-1B5C-4E71-829E-FBB41D71A51C}
+StartMode=5
+UseRunAs=0
+Disable32BitRedir=0
+[sdu]
+Filename="C:\Users\infanten\AppData\Local\Apps\2.0\LKWOJ4T4.ZHZ\7OWV0C0Z.W01\sdu...tion_095421d80e4fa55c_0001.0000_bf5ccb32b681a533\SDU.exe"
+GUID={D73E284B-2CD6-45EA-BF15-4B88A479E03F}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=-1
+[shutdown]
+Filename="@SHUTDOWN@"
+Notes="Trigger the Windows Shutdown dialog"
+GUID=
+StartMode=5
+UseRunAs=0
+Disable32BitRedir=0
+[siteprops]
+Filename="C:\Program Files (x86)\Vim\vim74\gvim.exe"
+Params="C:\jhc\$W$\config\site.properties"
+GUID={486F0C99-148E-4424-A9E9-0D42F34EBD02}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[sleep,standby]
+Filename="@STANDBY@"
+Notes="WindowsXP Standby Command"
+GUID={5CD45EA2-EA0B-4BB7-9C1E-0EDEFAF198AA}
+StartMode=5
+UseRunAs=0
+Disable32BitRedir=0
+[soapui]
+Filename=""C:\Program Files (x86)\SmartBear\soapUI-4.5.0\bin\soapUI-4.5.0.exe""
+GUID={EFE8926C-43C7-4AFC-9B82-3B5358889DBC}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=-1
+[solitaire]
+Filename="sol.exe"
+Notes="Microsoft Solitaire time-evaporation tool"
+GUID={2686E429-D8E0-44AA-82D6-B47BB4DA12AF}
+StartMode=5
+UseRunAs=0
+Disable32BitRedir=0
+[sonar]
+Filename="http://172.26.27.108:9000/"
+GUID={CD4795B0-EC6B-4003-A53A-5D67A28FF904}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[splunk]
+Filename="http://splunk.jhc.co.uk:90/"
+GUID={43B5A292-246A-4EE1-88A6-B6CB2D0C969D}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[sql]
+Filename=""C:\Program Files (x86)\squirrel-sql-3.3.0\squirrel-sql.bat""
+Path=""C:\Program Files (x86)\squirrel-sql-3.3.0""
+GUID={8F2E7421-6F14-4BF0-90F8-F29EC8C742FB}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[sso]
+Filename="http://localhost:8080/sso"
+GUID={DE2A1FB7-96E4-4229-8690-5B5572D874F6}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[stock,quote]
+Filename="http://finance.yahoo.com/q?s=$W$"
+Notes="Stock Ticker Quote"
+GUID={6E426829-E0D8-44AA-82D6-B47A12BB4DAF}
+StartMode=5
+UseRunAs=0
+Disable32BitRedir=0
+[sublime]
+Filename="C:\Program Files\Sublime Text 3\sublime_text.exe"
+GUID={92CD2373-21E4-411B-B23B-8CB0D86DB776}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=-1
+[surround]
+Filename="C:\Program Files (x86)\Seapine\Surround SCM\Surround SCM Client.exe"
+GUID={CDC1199C-9785-45D4-8688-554354D37632}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[svntimelapse]
+Filename="C:\Program Files (x86)\Java\jdk1.6.0_29\jre\bin\javaw.exe"
+Params=" -jar "C:\apps\svn-time-lapse-view-1.7\svn-time-lapse-view\SvnTimeLapseView.jar" "
+GUID={D5A48F1D-94C6-41E2-B199-50F9811A0963}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[svu]
+Filename="chrome"
+Params="http://172.30.30.71:8080/SVU/F63FIGARO/QRPGLESRC/$W$/H"
+GUID={3DCAA6AD-9D8C-4724-B14B-310B1E59DC2B}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[taskmgr]
+Filename="taskmgr"
+GUID={8E175290-4694-4742-AA3D-540783DD1B23}
+StartMode=1
+UseRunAs=-1
+Disable32BitRedir=0
+[teatime]
+Filename="C:\Program Files (x86)\Java\jre7\bin\javaw.exe"
+Params="-jar C:\apps\teatime\TeaTime.jar"
+GUID={AB2AA398-F980-4ECB-8759-E197D9776567}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[timero]
+Filename=""c:\Program Files\Java\jdk1.7.0_51\bin\javaw.exe""
+Path="C:\apps\timero"
+Params=" -jar .\timer-o-0.0.1-SNAPSHOT.jar "
+GUID={89B46CA9-4B08-4566-B686-EBEA5B58AE70}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[tortoise]
+Filename="C:\Program Files\TortoiseSVN\bin\TortoiseProc.exe"
+Params="/command:repobrowser /path:http://svn.jhc.co.uk/svn/jhc/thenon/$W$"
+GUID={5DD86F92-85C6-4AEB-9FF5-B6FF0FBE3EEB}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=-1
+[twist]
+Filename="C:\apps\Twist13\twist.exe"
+GUID={CEBE654C-30B0-4DB5-981B-DBA531BB7F80}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[vestra]
+Filename="http://localhost:8080/vestra/app"
+GUID={262DC8A1-6851-4FE0-ACD4-44C7CA8912F0}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[vim]
+Filename="C:\Program Files (x86)\Vim\vim74\gvim.exe"
+GUID={E1DDBD0B-6215-446A-B6DE-90603E0CBB2D}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[vimoptions]
+Filename="notepad"
+Params="C:\Program Files (x86)\Vim\_vimrc"
+GUID={08C807CF-9EDD-43D3-A4CC-C648D77E464F}
+StartMode=1
+UseRunAs=-1
+Disable32BitRedir=0
+[vimtutor]
+Filename="C:\Program Files (x86)\Vim\vim74\gvim.exe"
+Params=""C:\Program Files (x86)\Vim\vim74\tutor\tutor""
+GUID={7282739F-B22A-40F1-A224-E77F77DA4BFE}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[weather]
+Filename="http://www.weather.com/weather/local/$W$?whatprefs="
+Notes="Type your ZIP Code to get local weather"
+GUID=
+StartMode=5
+UseRunAs=0
+Disable32BitRedir=0
+[wikipedia,encyc]
+Filename="http://en.wikipedia.org/wiki/Special:Search?search=$W$&go=Go"
+Notes="Search Wikipedia Online Encyclopedia"
+GUID={7A4FFA2F-1DC7-4580-B235-70A21AC1C586}
+StartMode=5
+UseRunAs=0
+Disable32BitRedir=0
+[winmerge]
+Filename="C:\Program Files (x86)\WinMerge\WinMergeU.exe"
+GUID={9C16E8ED-40F7-47EF-80F2-73BFBEA8B25C}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0
+[winscp]
+Filename="C:\Program Files (x86)\WinSCP\WinSCP.exe"
+GUID={1B8C5B5D-91B2-48DE-9398-6B197ED6933C}
+StartMode=1
+UseRunAs=0
+Disable32BitRedir=0

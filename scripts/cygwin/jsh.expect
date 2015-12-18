@@ -1,0 +1,5 @@
+spawn ssh root@$::env(jshhost)
+expect "password:"
+send "ultravi0let\r"
+interact
+

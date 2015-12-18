@@ -1,0 +1,5 @@
+#!/bin/sh
+
+svn revert -R .
+svn status | grep "^\?" | cut -c9- | grep -v "^\?" | sed 's/\\/\//g' | xargs rm -v
+
