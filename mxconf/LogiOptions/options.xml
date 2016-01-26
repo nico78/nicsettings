@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<useroptions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <useroption name="showLockNotifications" value="0" />
+  <useroption name="showLowBatteryNotifications" value="1" />
+  <useroption name="automaticCheckForUpdates" value="1" />
+</useroptions>

@@ -1,0 +1,244 @@
+<?xml version="1.0"?>
+<device xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pairingmethod="0" osversion="7.0" name="Wireless Mouse MX Master" image="6b012.png" id="0x6b012" bustype="1" devicetype="3">
+  <features>
+    <feature id="0x1000">
+      <params>
+        <param name="numberOfLevels" value="4" />
+        <param name="flags" value="4" />
+        <param name="nominalBatteryLife" value="49192" />
+        <param name="batteryCriticalLife" value="10" />
+      </params>
+      <controlids />
+      <gestures />
+    </feature>
+    <feature id="0x1814">
+      <params>
+        <param name="nbHost" value="3" />
+      </params>
+      <controlids />
+      <gestures />
+    </feature>
+    <feature id="0x1b04">
+      <params />
+      <controlids>
+        <controlid rawxy="0" group="2" groupmask="7" id="0x0052" reprogrammable="true" type="mouse" taskidlist="middleButtonTaskList">
+          <task id="0x10040" class="advancekey">
+            <params alt="0" configure="1" ctrl="1" shift="0" vkey="1" win="0" />
+          </task>
+          <remappableids>
+            <remappableid controlid="0x00c3" taskid="0x009c" />
+            <remappableid controlid="0x00c4" taskid="0x009d" />
+            <remappableid controlid="0x0052" taskid="0x003a" />
+            <remappableid controlid="0x0053" taskid="0x003c" />
+            <remappableid controlid="0x0056" taskid="0x003e" />
+            <remappableid controlid="0x0050" taskid="0x0038" />
+            <remappableid controlid="0x0051" taskid="0x0039" />
+          </remappableids>
+          <actions />
+        </controlid>
+        <controlid rawxy="0" group="2" groupmask="3" id="0x0053" reprogrammable="true" type="mouse" taskidlist="backTaskidList3">
+          <task id="0x10000" class="virtualkey">
+            <params alt="0" configure="1" ctrl="1" extkey="0" shift="0" vkey="84" win="0" />
+          </task>
+          <remappableids>
+            <remappableid controlid="0x0052" taskid="0x003a" />
+            <remappableid controlid="0x0053" taskid="0x003c" />
+            <remappableid controlid="0x0056" taskid="0x003e" />
+            <remappableid controlid="0x0050" taskid="0x0038" />
+            <remappableid controlid="0x0051" taskid="0x0039" />
+          </remappableids>
+          <actions />
+        </controlid>
+        <controlid rawxy="0" group="2" groupmask="3" id="0x0056" reprogrammable="true" type="mouse" taskidlist="forwardTaskidList">
+          <task id="0x10000" class="virtualkey">
+            <params alt="0" configure="1" ctrl="1" extkey="0" shift="0" vkey="54" win="0" />
+          </task>
+          <remappableids>
+            <remappableid controlid="0x0052" taskid="0x003a" />
+            <remappableid controlid="0x0053" taskid="0x003c" />
+            <remappableid controlid="0x0056" taskid="0x003e" />
+            <remappableid controlid="0x0050" taskid="0x0038" />
+            <remappableid controlid="0x0051" taskid="0x0039" />
+          </remappableids>
+          <actions />
+        </controlid>
+        <controlid rawxy="0" group="3" groupmask="7" id="0x00c3" reprogrammable="true" type="mouse" taskidlist="gesturebuttonTaskidList">
+          <task divert="0" duplicate="65580" id="0x009c" class="gesturebutton">
+            <params />
+          </task>
+          <remappableids>
+            <remappableid controlid="0x00c3" taskid="0x009c" />
+            <remappableid controlid="0x00c4" taskid="0x009d" />
+            <remappableid controlid="0x0052" taskid="0x003a" />
+            <remappableid controlid="0x0053" taskid="0x003c" />
+            <remappableid controlid="0x0056" taskid="0x003e" />
+            <remappableid controlid="0x0050" taskid="0x0038" />
+            <remappableid controlid="0x0051" taskid="0x0039" />
+          </remappableids>
+          <actions />
+        </controlid>
+        <controlid rawxy="0" group="3" groupmask="7" id="0x00c4" reprogrammable="true" type="mouse" taskidlist="manualshiftTaskidList">
+          <task id="0x10000" class="virtualkey">
+            <params alt="0" configure="1" ctrl="0" extkey="0" shift="0" vkey="86" win="1" />
+          </task>
+          <remappableids>
+            <remappableid controlid="0x00c3" taskid="0x009c" />
+            <remappableid controlid="0x00c4" taskid="0x009d" />
+            <remappableid controlid="0x0052" taskid="0x003a" />
+            <remappableid controlid="0x0053" taskid="0x003c" />
+            <remappableid controlid="0x0056" taskid="0x003e" />
+            <remappableid controlid="0x0050" taskid="0x0038" />
+            <remappableid controlid="0x0051" taskid="0x0039" />
+          </remappableids>
+          <actions />
+        </controlid>
+      </controlids>
+      <gestures />
+    </feature>
+    <feature id="0x2201">
+      <params>
+        <param name="sensorCount" value="1" />
+        <param cur="1000" defaultDPI="1000" minDPI="400" maxDPI="1600" stepDPI="200" name="sensor" value="0" />
+      </params>
+      <controlids />
+      <gestures />
+    </feature>
+    <feature id="0x2110">
+      <params>
+        <param name="enable" value="1" />
+        <param name="mode" value="0" />
+        <param name="cur" value="16" />
+        <param name="min" value="4" />
+        <param name="max" value="50" />
+      </params>
+      <controlids />
+      <gestures />
+    </feature>
+    <feature id="0x2121">
+      <params>
+        <param name="divert" value="0" />
+        <param name="naturalScrollDirection" value="0" />
+      </params>
+      <controlids />
+      <gestures />
+    </feature>
+    <feature id="0x6501">
+      <params />
+      <controlids />
+      <gestures>
+        <gesture id="0x2e" gestureidlist="thumbWheelGestureTaskidList" class="select" index="1" uitab="1" actiongrouplist="thumbWheelGestureList" actiongroup="thumbwheelbackforward" can_enable="1" enable_default="1" can_divert="1" show_in_ui="1" ui_default="1" minhspeed="1" maxhspeed="7" stephspeed="1" curhspeed="7">
+          <actions>
+            <action id="down">
+              <task id="0x10024" class="thumbwheelbackforward">
+                <params />
+              </task>
+            </action>
+            <action id="up">
+              <task id="0x10024" class="thumbwheelbackforward">
+                <params />
+              </task>
+            </action>
+          </actions>
+          <gesturetask id="0xc" enabled="1" progressive="1" />
+        </gesture>
+        <gesture id="0x2d" gestureidlist="scrollDirectionGestureTaskidList" class="select" index="1" uitab="1" can_enable="1" enable_default="1" can_divert="0" show_in_ui="1" ui_default="1">
+          <actions />
+          <gesturetask id="0x3" enabled="0" />
+        </gesture>
+        <gesture actiongroup7="win8nav2" actiongroup8="win8nav2" id="0x2762" gestureidlist="othersTaskidList" class="select" index="1" uitab="1" actiongrouplist="win8NavList" actiongroup="virtualdesktop" can_enable="0" enable_default="0" can_divert="1" show_in_ui="1" ui_default="0">
+          <actions>
+            <action id="click">
+              <task id="0x10022" class="donothing">
+                <params />
+              </task>
+            </action>
+            <action id="down">
+              <task id="0x10021" class="donothing">
+                <params />
+              </task>
+            </action>
+            <action id="left">
+              <task id="0x10026" class="donothing">
+                <params />
+              </task>
+            </action>
+            <action id="right">
+              <task id="0x10027" class="donothing">
+                <params />
+              </task>
+            </action>
+            <action id="up">
+              <task id="0x10020" class="gestureButtonWinNavigation2">
+                <params />
+              </task>
+            </action>
+          </actions>
+          <gesturetask id="0x0" enabled="0" />
+        </gesture>
+        <gesture actiongroup7="win8nav2" actiongroup8="win8nav2" id="0x27d3" gestureidlist="othersTaskidList" class="select" index="1" uitab="1" actiongrouplist="win8NavList" actiongroup="custom" can_enable="0" enable_default="0" can_divert="1" show_in_ui="1" ui_default="0">
+          <actions>
+            <action id="click">
+              <task id="0x004e" class="keystroke">
+                <params command="^c" />
+              </task>
+            </action>
+            <action id="down">
+              <task id="0x10000" class="virtualkey">
+                <params alt="0" configure="1" ctrl="1" extkey="0" shift="0" vkey="79" win="0" />
+              </task>
+            </action>
+            <action id="left">
+              <task id="0x10000" class="virtualkey">
+                <params alt="0" configure="1" ctrl="1" extkey="0" shift="0" vkey="90" win="0" />
+              </task>
+            </action>
+            <action id="right">
+              <task id="0x10000" class="virtualkey">
+                <params alt="0" configure="1" ctrl="1" extkey="0" shift="0" vkey="89" win="0" />
+              </task>
+            </action>
+            <action id="up">
+              <task id="0x10000" class="virtualkey">
+                <params alt="1" configure="1" ctrl="1" extkey="0" shift="0" vkey="72" win="0" />
+              </task>
+            </action>
+          </actions>
+          <gesturetask id="0x0" enabled="0" />
+        </gesture>
+        <gesture actiongroup7="win8nav2" actiongroup8="win8nav2" id="0x27d4" gestureidlist="othersTaskidList" class="select" index="1" uitab="1" actiongrouplist="win8NavList" actiongroup="virtualdesktop" can_enable="0" enable_default="0" can_divert="1" show_in_ui="1" ui_default="0">
+          <actions>
+            <action id="click">
+              <task id="0x10022" class="donothing">
+                <params />
+              </task>
+            </action>
+            <action id="down">
+              <task id="0x10021" class="donothing">
+                <params />
+              </task>
+            </action>
+            <action id="left">
+              <task id="0x10026" class="donothing">
+                <params />
+              </task>
+            </action>
+            <action id="right">
+              <task id="0x10027" class="donothing">
+                <params />
+              </task>
+            </action>
+            <action id="up">
+              <task id="0x10020" class="gestureButtonWinNavigation2">
+                <params />
+              </task>
+            </action>
+          </actions>
+          <gesturetask id="0x0" enabled="0" />
+        </gesture>
+      </gestures>
+    </feature>
+  </features>
+  <appsettings>
+    <param name="appProfilesEnabled" value="1" />
+  </appsettings>
+</device>

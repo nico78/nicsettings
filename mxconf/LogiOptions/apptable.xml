@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<profiles xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <profile>
+    <name>IntelliJ IDEA</name>
+    <id>d29db6d8-0404-413c-b29c-ab418f1f31af</id>
+    <exe>idea64.exe</exe>
+    <fullpath>C:\Users\Nic.Infante\AppData\Roaming\JetBrains\IntelliJ IDEA Community Edition 15.0.2\bin\idea64.exe</fullpath>
+    <iconpath>C:\Users\Nic.Infante\AppData\Roaming\JetBrains\IntelliJ IDEA Community Edition 15.0.2\bin\idea64.exe</iconpath>
+    <iconindex>0</iconindex>
+  </profile>
+  <profile>
+    <name>Microsoft Outlook</name>
+    <id>7ff5096e-7714-49d5-b966-fdc6d709ed99</id>
+    <exe>OUTLOOK.EXE</exe>
+    <fullpath>C:\Program Files (x86)\Microsoft Office\Office14\OUTLOOK.EXE</fullpath>
+    <iconpath>C:\Program Files (x86)\Microsoft Office\Office14\OUTLOOK.EXE</iconpath>
+    <iconindex>0</iconindex>
+  </profile>
+  <profile>
+    <name>Microsoft Excel</name>
+    <id>e9a09d77-0e94-4b74-bd90-9c04b093a635</id>
+    <exe>EXCEL.EXE</exe>
+    <fullpath>C:\Program Files (x86)\Microsoft Office\Office14\EXCEL.EXE</fullpath>
+    <iconpath>C:\Program Files (x86)\Microsoft Office\Office14\EXCEL.EXE</iconpath>
+    <iconindex>0</iconindex>
+  </profile>
+  <profile>
+    <name>baretail.exe</name>
+    <id>5d673757-afc6-4a2c-9050-472b5d5df3ca</id>
+    <exe>baretail.exe</exe>
+    <fullpath>D:\ExternalSoftware\baretail\baretail.exe</fullpath>
+    <iconpath>D:\ExternalSoftware\baretail\baretail.exe</iconpath>
+    <iconindex>0</iconindex>
+  </profile>
+  <profile>
+    <name>SnakeTail</name>
+    <id>5c42248e-fb1c-4ee6-9a9d-67a2bd624fbd</id>
+    <exe>SnakeTail.exe</exe>
+    <fullpath>D:\ExternalSoftware\SnakeTail\SnakeTail.exe</fullpath>
+    <iconpath>D:\ExternalSoftware\SnakeTail\SnakeTail.exe</iconpath>
+    <iconindex>0</iconindex>
+  </profile>
+</profiles>
