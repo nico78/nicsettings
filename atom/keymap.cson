@@ -1,0 +1,8 @@
+'.editor:not([mini])':
+   'alt-y': 'find-and-replace:select-next'
+   'ctrl-alt-y': 'find-and-replace:select-skip'
+   'alt-shift-y': 'find-and-replace:select-undo'
+   'alt-shift-up': 'expand-region:expand'
+   'alt-shift-down': 'expand-region:shrink'
+   'ctrl-shift-P': 'command-palette:toggle'
+   'ctrl-shift-up': 'editor:add-selection-above'

@@ -1,0 +1,18 @@
+"*":
+  Ensime:
+    sbtExec: "/usr/bin/sbt"
+  core:
+    themes: [
+      "atom-dark-ui"
+      "atom-dark-syntax"
+    ]
+  editor:
+    fontSize: 25
+    invisibles: {}
+    scrollPastEnd: true
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "84603f05-9691-69a4-65e4-3d0885783a5a"
+  "expand-region": {}
+  welcome:
+    showOnStartup: false

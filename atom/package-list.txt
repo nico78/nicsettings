@@ -1,0 +1,8 @@
+Ensime@0.37.2
+browser-plus@0.0.54
+eclipse-keybindings@0.9.0
+expand-region@0.2.4
+hyperclick@0.0.35
+language-scala@1.1.6
+linter@1.11.3
+
