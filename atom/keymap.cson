@@ -6,3 +6,7 @@
    'alt-shift-down': 'expand-region:shrink'
    'ctrl-shift-P': 'command-palette:toggle'
    'ctrl-shift-up': 'editor:add-selection-above'
+   'ctrl-shift-down': 'editor:add-selection-below'
+
+'.platform-win32 atom-text-editor:not([mini]), .platform-linux atom-text-editor:not([mini])':
+  'ctrl-shift-P': 'command-palette:toggle'
