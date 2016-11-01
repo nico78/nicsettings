@@ -1,0 +1,24 @@
+[diff]
+	tool = diffmerge
+[difftool "diffmerge"]
+	cmd = /usr/bin/diffmerge $LOCAL $REMOTE
+[merge]
+	tool = diffmerge
+[mergetool "diffmerge"]
+	cmd = /usr/bin/diffmerge --merge --result=$MERGED $LOCAL $BASE $REMOTE
+	trustExitCode = true
+[mergetool]
+	keepBackup = false
+[alias]
+  co = checkout
+  ci = commit
+  st = status
+  br = branch
+  hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+  type = cat-file -t
+  dump = cat-file -p
+  ri = rebase -i origin/master
+  cs = "!remt=`git config --get remote.origin.url| sed 's/^.*:\\(.*\\)\\.git/https:\\/\\/github.schibsted.io\\/\\1/'` && git fetch && git log $1..origin/master --no-merges --pretty=format:'* %s ('$remt'/commit/%H)' --reverse"
+
+[push]
+	default = current
